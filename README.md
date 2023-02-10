@@ -11,10 +11,6 @@ In the rest of the README file, you'll find more information on how to set up an
 
 
 
-### Built With
-
-
-
 
 
 
