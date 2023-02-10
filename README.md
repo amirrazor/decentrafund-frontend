@@ -1,7 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Decentralized fundraising - Frontend
+
+## Introduction
+
+Welcome to the frontend of the "Decentralized Fundraising" project, a decentralized platform that allows users to participate in fundraising campaigns using smart contracts. The frontend is built using Next.js, Moralis for communicating with the smart contract, Web3uikit for connecting users with their crypto wallet, JavaScript, and Bootstrap for styling.
+
+The platform is designed to provide many advantages over traditional centralized fundraising platforms, thanks to its decentralized nature. The demo of the platform can be accessed at "https://decentrafund.de", and the smart contract is live on the Goerli test network, using test money only. The project is for test purposes only and does not use any real money, and nobody profits from this project.
+
+In the rest of the README file, you'll find more information on how to set up and use the "Decentralized Fundraising" frontend project. Thank you for your interest!
+
+
+
+
+### Built With
+
+
+
+
+
+
+
+
+### Built With
+
+<a href="https://nextjs.org">Next.js</a> </br>
+<a href="https://reactjs.org">React</a>
+</br>
+<a href="https://moralis.io">Moralis</a>
+</br>
+<a href="https://docs.ethers.org">Ethers.js</a>
+</br>
+<a href="https://web3uikit.com/">Web3uikit</a>
 
 ## Getting Started
 
+### Prerequisites
+
+Run yarn to install all the necessary node modules first:
+  ```sh
+  yarn
+  ```
+  
+  
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).  
+  
 First, run the development server:
 
 ```bash
@@ -11,6 +52,8 @@ yarn dev
 # or
 pnpm dev
 ```
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -36,3 +79,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
